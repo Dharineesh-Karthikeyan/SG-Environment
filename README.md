@@ -43,7 +43,7 @@ The analysis helps highlight how Singapore is one of the healthiest countries gl
 
 Overall, the report helps policy makers and environment entusiasts see the bigger picture and understand the driving forces behind the data, while the presentation condenses these insights into an accessible fun filled format to learn from Singapore's example and consider ways to implement these strategies in their own countries.
 
-Click Here to view the [Report or the [Presentation
+Click Here to view/download the [Report](https://github.com/Dharineesh-Karthikeyan/SG-Environment/blob/main/Final%20Report.pdf) or the [Presentation](https://github.com/Dharineesh-Karthikeyan/SG-Environment/blob/main/Presentation.pptx)
 
 _____________________
 
