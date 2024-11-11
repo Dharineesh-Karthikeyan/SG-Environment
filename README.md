@@ -4,7 +4,7 @@ Singapore is recognized as one of the healthiest countries globally, renowned fo
 
 ______________________
 
-### <b>Tools & Technologies:<b>
+### <b>Tools & Technologies:</b>
 - Amazon S3: Storage for the raw environmental health datasets.
 - Amazon Athena: SQL-based query and transformation engine connected to the S3 data.
 - Tableau: Data visualization platform for creating an interactive dashboard.
@@ -12,7 +12,7 @@ ______________________
 
 ______________________
 
-## Project Pipeline and Workflow:
+## <b>Project Pipeline and Workflow:</b>
 
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/f9d92ea3-3043-486d-b6bf-4d9fef3d4598">
 
@@ -29,13 +29,13 @@ Additionally, for security purposes - IAM Roles are used to manage secure access
 
 ___________________
 
-## Dashboard Design:
+## <b>Dashboard Design:</b>
 <img width="1400" alt="image" src="https://github.com/user-attachments/assets/f3d44195-7682-4bcb-8cc5-02b5e09c520b">
 
 
 ____________________
 
-## Project Report and Presentation:
+## <b>Project Report and Presentation:</b>
 
 A detailed professional report and presentation is also included that bridges the gap between numerical values shown in the dashboards and real-world information. I have helped identify and outline the specific methods, techniques, and laws that Singapore has implemented to maintain its high environmental standards. By connecting these laws, such as strict air and water quality regulations, land management policies, and sustainable urban planning practices, I have provided a deeper understanding of how these measures directly impact environmental health, beyond just numerical data.
 
