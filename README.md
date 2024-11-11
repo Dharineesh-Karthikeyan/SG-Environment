@@ -14,7 +14,7 @@ ______________________
 
 ## Project Pipeline and Workflow:
 
-<img width="763" alt="image" src="https://github.com/user-attachments/assets/f9d92ea3-3043-486d-b6bf-4d9fef3d4598">
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/f9d92ea3-3043-486d-b6bf-4d9fef3d4598">
 
 
 Simplified Flow:
