@@ -30,7 +30,7 @@ Additionally, for security purposes - IAM Roles are used to manage secure access
 ___________________
 
 ## Dashboard Design:
-<img width="1414" alt="image" src="https://github.com/user-attachments/assets/f3d44195-7682-4bcb-8cc5-02b5e09c520b">
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/f3d44195-7682-4bcb-8cc5-02b5e09c520b">
 
 
 ____________________
