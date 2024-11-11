@@ -17,7 +17,8 @@ ______________________
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/f9d92ea3-3043-486d-b6bf-4d9fef3d4598">
 
 
-Simplified Flow:
+
+### **Simplified Flow:**
 1. Source Datasets: Data is scattered between various government sources and datasets.
 2. Data Lake (Conceptual layer) : Data from various sources is ingested and structured.
 3. Python Script: Uses Boto3 to push data from the source into Amazon S3 and also loads it into Amazon Athena for processing.
